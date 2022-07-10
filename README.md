@@ -24,7 +24,7 @@ The contents of this repsitory are as follows:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-8) FR and QR Application
+2) FR and QR Application
 
 Face Recognition and QR Code Application.
 
